@@ -19,6 +19,7 @@ TARGET_OTA_ASSERT_DEVICE := kltespr,klte
 
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8974pro_sec_klte_spr_defconfig
+TARGET_GCC_VERSION_ARM := 4.10-sm
 
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_msm
