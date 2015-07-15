@@ -23,4 +23,4 @@ PRODUCT_NAME := full_kltespr
 PRODUCT_DEVICE := kltespr
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
-PRODUCT_MODEL := kltespr
+PRODUCT_MODEL := Samsung Galaxy S5
